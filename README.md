@@ -1,5 +1,7 @@
 # MediaRecorder
 
+![Screenshot](https://github.com/Palpac/MediaRecorder/blob/master/Screenshot.png)
+
 Simple MediaRecorder for Android. 
 
 Record from MIC and save in SDcard.
