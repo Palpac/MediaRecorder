@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media Recorder</string>
+    <string name="record">Record from MIC</string>
+    <string name="stop">Stop recording</string>
+    <string name="play">Play recorded audio</string>
+    <string name="text">Recorded audio files are saved in MediaRecorder directory in the SDcard</string>
+</resources>
